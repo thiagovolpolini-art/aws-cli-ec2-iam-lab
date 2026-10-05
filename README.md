@@ -108,6 +108,7 @@ lab_policy.json
 contendo a representação JSON da política IAM.
 🖼️ Resultado do laboratório
 
+![AWS CLI EC2 IAM Lab](aws-cli-ec2-iam-lab.png)
 
 📚 Aprendizados
 Durante este laboratório pratiquei:
